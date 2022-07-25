@@ -11,55 +11,55 @@
     "success_url": "https://t.me/Telegram",
     "stack": "container",
     "env": {
-        "gv": {
+        "BUTTON_SIX_URL": {
             "description": "",
             "value": "", 
             "required": false
         },
-        "y": {
+        "BUTTON_SIX_NAME": {
             "description": "",
             "value": "",
             "required": false
         },
-        "gg": {
+        "BUTTON_FIVE_URL": {
             "description": "",
             "value": ""
         },
-        "gvb": {
+        "BUTTON_FIVE_NAME": {
             "description": "",
             "value": "",
             "required": false
         },
-        "h": {
+        "BUTTON_FOUR_URL": {
             "description": "",
             "value": "",
             "required": false
         },
-        "hshg": {
+        "BUTTON_FOUR_NAME": {
             "description":"",
             "value": "main"
         },
-        "hfg": {
+        "APPDRIVE_PASS": {
             "description": "",
             "value": "",
             "required": false
         },
-        "gfh": {
+        "APPDRIVE_EMAIL": {
             "description": "",
             "value": "",
             "required": false
         },
-        "hgh": {
+        "CRYPT": {
             "description": "",
             "value": "",
             "required": false
         },
-        "ggh": {
+        "MEGA_PASSWORD": {
             "description": "",
             "value": "", 
             "required": false
         },
-        "ghg": {
+        "MEGA_EMAIL_ID": {
             "description": "",
             "value": "",
             "required": false
