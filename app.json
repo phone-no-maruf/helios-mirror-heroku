@@ -11,49 +11,179 @@
     "success_url": "https://t.me/Telegram",
     "stack": "container",
     "env": {
-        "API_ID": {
+        "": {
             "description": "",
             "value": "", 
             "required": false
         },
-        "API_HASH": {
+        "": {
             "description": "",
             "value": "",
             "required": false
         },
-        "SESSION": {
+        "": {
             "description": "",
             "value": ""
         },
-        "REDIS_URI": {
+        "": {
             "description": "",
             "value": "",
             "required": false
         },
-        "REDIS_PASSWORD": {
+        "": {
             "description": "",
             "value": "",
             "required": false
         },
-        "BRANCH": {
+        "": {
             "description":"",
             "value": "main"
         },
-        "MONGO_URI": {
+        "": {
             "description": "",
             "value": "",
             "required": false
         },
-        "HEROKU_API": {
+        "": {
             "description": "",
             "value": "",
             "required": false
         },
-        "HEROKU_APP_NAME": {
+        "": {
             "description": "",
             "value": "",
             "required": false
-        }
+        },
+        "": {
+            "description": "",
+            "value": "", 
+            "required": false
+        },
+        "": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "": {
+            "description": "",
+            "value": ""
+        },
+        "": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "": {
+            "description":"",
+            "value": "main"
+        },
+        "": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "": {
+            "description": "",
+            "value": "", 
+            "required": false
+        },
+        "": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "": {
+            "description": "",
+            "value": ""
+        },
+        "": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "": {
+            "description":"",
+            "value": "main"
+        },
+        "": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "": {
+            "description": "",
+            "value": "", 
+            "required": false
+        },
+        "": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "": {
+            "description": "",
+            "value": ""
+        },
+        "": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "": {
+            "description":"",
+            "value": "main"
+        },
+        "": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        
     },
     "formation": {
         "rootedcyber": {
