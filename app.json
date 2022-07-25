@@ -11,178 +11,49 @@
     "success_url": "https://t.me/Telegram",
     "stack": "container",
     "env": {
-        "g": {
+        "API_ID": {
             "description": "",
             "value": "", 
             "required": false
         },
-        "y": {
+        "API_HASH": {
             "description": "",
             "value": "",
             "required": false
         },
-        "g": {
+        "SESSION": {
             "description": "",
             "value": ""
         },
-        "g": {
+        "REDIS_URI": {
             "description": "",
             "value": "",
             "required": false
         },
-        "h": {
+        "REDIS_PASSWORD": {
             "description": "",
             "value": "",
             "required": false
         },
-        "g": {
+        "BRANCH": {
             "description":"",
             "value": "main"
         },
-        "h": {
+        "MONGO_URI": {
             "description": "",
             "value": "",
             "required": false
         },
-        "h": {
+        "HEROKU_API": {
             "description": "",
             "value": "",
             "required": false
         },
-        "h": {
+        "HEROKU_APP_NAME": {
             "description": "",
             "value": "",
             "required": false
-        },
-        "h": {
-            "description": "",
-            "value": "", 
-            "required": false
-        },
-        "g": {
-            "description": "",
-            "value": "",
-            "required": false
-        },
-        "h": {
-            "description": "",
-            "value": ""
-        },
-        "h": {
-            "description": "",
-            "value": "",
-            "required": false
-        },
-        "h": {
-            "description": "",
-            "value": "",
-            "required": false
-        },
-        "g": {
-            "description":"",
-            "value": "main"
-        },
-        "h": {
-            "description": "",
-            "value": "",
-            "required": false
-        },
-        "g": {
-            "description": "",
-            "value": "",
-            "required": false
-        },
-        "g": {
-            "description": "",
-            "value": "",
-            "required": false
-        },
-        "t": {
-            "description": "",
-            "value": "", 
-            "required": false
-        },
-        "g": {
-            "description": "",
-            "value": "",
-            "required": false
-        },
-        "y": {
-            "description": "",
-            "value": ""
-        },
-        "g": {
-            "description": "",
-            "value": "",
-            "required": false
-        },
-        "g": {
-            "description": "",
-            "value": "",
-            "required": false
-        },
-        "h": {
-            "description":"",
-            "value": "main"
-        },
-        "g": {
-            "description": "",
-            "value": "",
-            "required": false
-        },
-        "h": {
-            "description": "",
-            "value": "",
-            "required": false
-        },
-        "g": {
-            "description": "",
-            "value": "",
-            "required": false
-        },
-        "h": {
-            "description": "",
-            "value": "", 
-            "required": false
-        },
-        "h": {
-            "description": "",
-            "value": "",
-            "required": false
-        },
-        "g": {
-            "description": "",
-            "value": ""
-        },
-        "y": {
-            "description": "",
-            "value": "",
-            "required": false
-        },
-        "h": {
-            "description": "",
-            "value": "",
-            "required": false
-        },
-        "h": {
-            "description":"",
-            "value": "main"
-        },
-        "h": {
-            "description": "",
-            "value": "",
-            "required": false
-        },
-        "g": {
-            "description": "",
-            "value": "",
-            "required": false
-        },
-        "g": {
-            "description": "",
-            "value": "",
-            "required": false
-        },
+        }
     },
     "formation": {
         "rootedcyber": {
