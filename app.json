@@ -11,7 +11,7 @@
     "success_url": "https://t.me/Telegram",
     "stack": "container",
     "env": {
-        "g": {
+        "gv": {
             "description": "",
             "value": "", 
             "required": false
@@ -21,11 +21,11 @@
             "value": "",
             "required": false
         },
-        "gj": {
+        "gg": {
             "description": "",
             "value": ""
         },
-        "gv": {
+        "gvb": {
             "description": "",
             "value": "",
             "required": false
@@ -35,54 +35,54 @@
             "value": "",
             "required": false
         },
-        "g": {
+        "hshg": {
             "description":"",
             "value": "main"
         },
-        "h": {
+        "hfg": {
             "description": "",
             "value": "",
             "required": false
         },
-        "h": {
+        "gfh": {
             "description": "",
             "value": "",
             "required": false
         },
-        "h": {
+        "hgh": {
             "description": "",
             "value": "",
             "required": false
         },
-        "h": {
+        "ggh": {
             "description": "",
             "value": "", 
             "required": false
         },
-        "g": {
+        "ghg": {
             "description": "",
             "value": "",
             "required": false
         },
-        "h": {
+        "hgg": {
             "description": "",
             "value": ""
         },
-        "h": {
+        "ggh": {
             "description": "",
             "value": "",
             "required": false
         },
-        "h": {
+        "hgf": {
             "description": "",
             "value": "",
             "required": false
         },
-        "g": {
+        "gjj": {
             "description":"",
             "value": "main"
         },
-        "h": {
+        "hgj": {
             "description": "",
             "value": "",
             "required": false
