@@ -64,21 +64,21 @@
             "value": "",
             "required": false
         },
-        "hgg": {
+        "MEGA_API_KEY": {
             "description": "",
             "value": ""
         },
-        "ggh": {
+        "ACCOUNTS_ZIP_URL": {
             "description": "",
             "value": "",
             "required": false
         },
-        "hgf": {
+        "GD_INFO": {
             "description": "",
             "value": "",
             "required": false
         },
-        "gjj": {
+        "": {
             "description":"",
             "value": "main"
         },
