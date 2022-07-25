@@ -11,15 +11,177 @@
     "success_url": "https://t.me/Telegram",
     "stack": "container",
     "env": {
-        "BOT_TOKEN": {
-            "description": "Bot token",
+        "g": {
+            "description": "",
             "value": "", 
-            "required": true
+            "required": false
         },
-        "OWNER_ID": {
-            "description": "Enter Owner id",
+        "y": {
+            "description": "",
             "value": "",
-            "required": true
+            "required": false
+        },
+        "g": {
+            "description": "",
+            "value": ""
+        },
+        "g": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "h": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "g": {
+            "description":"",
+            "value": "main"
+        },
+        "h": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "h": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "h": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "h": {
+            "description": "",
+            "value": "", 
+            "required": false
+        },
+        "g": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "h": {
+            "description": "",
+            "value": ""
+        },
+        "h": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "h": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "g": {
+            "description":"",
+            "value": "main"
+        },
+        "h": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "g": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "g": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "t": {
+            "description": "",
+            "value": "", 
+            "required": false
+        },
+        "g": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "y": {
+            "description": "",
+            "value": ""
+        },
+        "g": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "g": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "h": {
+            "description":"",
+            "value": "main"
+        },
+        "g": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "h": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "g": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "h": {
+            "description": "",
+            "value": "", 
+            "required": false
+        },
+        "h": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "g": {
+            "description": "",
+            "value": ""
+        },
+        "y": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "h": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "h": {
+            "description":"",
+            "value": "main"
+        },
+        "h": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "g": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "g": {
+            "description": "",
+            "value": "",
+            "required": false
         }
     },
     "formation": {
