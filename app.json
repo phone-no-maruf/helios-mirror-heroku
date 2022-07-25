@@ -23,7 +23,8 @@
         },
         "BUTTON_FIVE_URL": {
             "description": "",
-            "value": ""
+            "value": "",
+            "required": false
         },
         "BUTTON_FIVE_NAME": {
             "description": "",
@@ -37,7 +38,8 @@
         },
         "BUTTON_FOUR_NAME": {
             "description":"",
-            "value": "main"
+            "value": "",
+            "required": false
         },
         "APPDRIVE_PASS": {
             "description": "",
@@ -66,7 +68,8 @@
         },
         "MEGA_API_KEY": {
             "description": "",
-            "value": ""
+            "value": "",
+            "required": false
         },
         "ACCOUNTS_ZIP_URL": {
             "description": "",
@@ -78,107 +81,112 @@
             "value": "",
             "required": false
         },
-        "": {
+        "AUTHOR_URL": {
             "description":"",
-            "value": "main"
+            "value": "", 
+            "required": false
         },
-        "hgj": {
+        "AUTHOR_NAME": {
             "description": "",
             "value": "",
             "required": false
         },
-        "g": {
+        "TITLE_NAME": {
             "description": "",
             "value": "",
             "required": false
         },
-        "g": {
+        "LEECH_LOG": {
             "description": "",
             "value": "",
             "required": false
         },
-        "t": {
+        "BOT_PM": {
             "description": "",
             "value": "", 
             "required": false
         },
-        "g": {
+        "MIRROR_LOGS": {
             "description": "",
             "value": "",
             "required": false
         },
-        "y": {
-            "description": "",
-            "value": ""
-        },
-        "g": {
-            "description": "",
-            "value": "",
-            "required": false
-        },
-        "g": {
-            "description": "",
-            "value": "",
-            "required": false
-        },
-        "h": {
-            "description":"",
-            "value": "main"
-        },
-        "g": {
-            "description": "",
-            "value": "",
-            "required": false
-        },
-        "h": {
-            "description": "",
-            "value": "",
-            "required": false
-        },
-        "g": {
-            "description": "",
-            "value": "",
-            "required": false
-        },
-        "h": {
+        "STOP_DUPLICATE": {
             "description": "",
             "value": "", 
             "required": false
         },
-        "h": {
+        "INDEX_URL": {
             "description": "",
             "value": "",
             "required": false
         },
-        "g": {
-            "description": "",
-            "value": ""
-        },
-        "y": {
+        "USE_SERVICE_ACCOUNTS": {
             "description": "",
             "value": "",
             "required": false
         },
-        "h": {
-            "description": "",
-            "value": "",
-            "required": false
-        },
-        "h": {
+        "SUDO_USERS": {
             "description":"",
-            "value": "main"
+            "value": "", 
+            "required": false
         },
-        "h": {
+        "AUTHORIZED_CHATS": {
             "description": "",
             "value": "",
             "required": false
         },
-        "g": {
+        "DATABASE_URL": {
             "description": "",
             "value": "",
             "required": false
         },
-        "g": {
+        "OWNER_ID": {
+            "description": "",
+            "value": "",
+            "required": true
+        },
+        "GDRIVE_FOLDER_ID": {
+            "description": "",
+            "value": "", 
+            "required": true
+        },
+        "BOT_TOKEN": {
+            "description": "",
+            "value": "",
+            "required": true
+        },
+        "SHORTENER_API": {
+            "description": "",
+            "value": "", 
+            "required": false
+        },
+        "SHORTENER": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "YT_COOKIES_URL": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "USER_SESSION_STRING": {
+            "description":"",
+            "value": "", 
+            "required": false
+        },
+        "RSS_COMMAND": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "RSS_CHAT_ID": {
+            "description": "",
+            "value": "",
+            "required": false
+        },
+        "RSS_DELAY": {
             "description": "",
             "value": "",
             "required": false
