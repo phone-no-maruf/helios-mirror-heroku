@@ -11,31 +11,31 @@
     "success_url": "https://t.me/Telegram",
     "stack": "container",
     "env": {
-        "": {
+        "g": {
             "description": "",
             "value": "", 
             "required": false
         },
-        "": {
+        "y": {
             "description": "",
             "value": "",
             "required": false
         },
-        "": {
+        "g": {
             "description": "",
             "value": ""
         },
-        "": {
+        "g": {
             "description": "",
             "value": "",
             "required": false
         },
-        "": {
+        "h": {
             "description": "",
             "value": "",
             "required": false
         },
-        "": {
+        "g": {
             "description":"",
             "value": "main"
         },
@@ -183,7 +183,6 @@
             "value": "",
             "required": false
         },
-        
     },
     "formation": {
         "rootedcyber": {
