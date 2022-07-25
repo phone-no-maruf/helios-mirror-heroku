@@ -186,6 +186,10 @@
             "value": "",
             "required": false
         },
+         "TOKEN_PICKLE_URL": {
+            "description": "Token Pickle direct url",
+            "value": ""
+},
         "RSS_DELAY": {
             "description": "",
             "value": "",
