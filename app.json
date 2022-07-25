@@ -20,6 +20,16 @@
             "description": "Enter Owner id",
             "value": "",
             "required": true
+        },
+        "AUTHORIZED_CHATS": {
+            "description": "Enter Autorise chat id",
+            "value": "", 
+            "required": false
+        },
+        "SUDO_USERS": {
+            "description": "Enter sudo user id",
+            "value": "",
+            "required": false
         }
     },
     "formation": {
