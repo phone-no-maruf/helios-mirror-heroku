@@ -1,0 +1,5 @@
+build:
+  docker:
+    rootedcyber: Dockerfile
+run:
+  rootedcyber: bash maruf.sh
