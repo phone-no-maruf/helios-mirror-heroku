@@ -1,39 +1,27 @@
 {
-    "name": "Telegram",
-    "description": "You know what it does...",
-    "logo": "",
+    "name": "Ultroid UserBot in github action",
+    "description": "Pluggable telegram userbot, made in python using Telethon.",
+    "logo": "https://telegra.ph/file/8fd3bb89b9fb46867e7c9.jpg",
     "keywords": [
         "Telethon",
         "telegram",
-        "python"
+        "userbot",
+        "python",
+        "ultroid"
     ],
-    "repository": "https://github.com/",
-    "success_url": "https://t.me/Telegram",
+    "repository": "https://github.com/rooted-cyber/github-action-bot",
+    "website": "https://ultroid.tech",
+    "success_url": "https://t.me/TheUltroid",
     "stack": "container",
     "env": {
-        "BOT_TOKEN": {
-            "description": "Bot token",
-            "value": "", 
-            "required": true
-        },
-        "OWNER_ID": {
-            "description": "Enter Owner id",
-            "value": "",
-            "required": true
-        },
-        "AUTHORIZED_CHATS": {
-            "description": "Enter Autorise chat id",
-            "value": "", 
-            "required": false
-        },
-        "SUDO_USERS": {
-            "description": "Enter sudo user id",
-            "value": "",
+        "ENTER_NAME": {
+            "description": "Name of your",
+            "value": "Maruf",
             "required": false
         }
     },
     "formation": {
-        "rootedcyber": {
+        "ultroid": {
             "quantity": 1,
             "size": "free"
         }
